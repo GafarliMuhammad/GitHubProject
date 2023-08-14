@@ -6,8 +6,5 @@ Version 3 codes...
 V4 works
 Version 5 Codes!!!
 Mary's codes!!!
-<<<<<<< Updated upstream
-V6 master...
-=======
 V6 Mary!!!
->>>>>>> Stashed changes
+V7 for GitHub
